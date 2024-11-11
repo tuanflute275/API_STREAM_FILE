@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "mq19EpoBWja73Vy0TEj1eCQXDBmf12vqwiLti6VECAk=",
+  "Source": "API_Stream",
+  "BasePath": "_content/API_Stream",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_Stream\\wwwroot",
+      "Source": "API_Stream",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\",
+      "BasePath": "_content/API_Stream",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\movie\\bauTroiMoi.mp4",
+      "SourceId": "API_Stream",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\",
+      "BasePath": "_content/API_Stream",
+      "RelativePath": "movie/bauTroiMoi.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movie\\bauTroiMoi.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\music\\bauTroiMoi.mp3",
+      "SourceId": "API_Stream",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\",
+      "BasePath": "_content/API_Stream",
+      "RelativePath": "music/bauTroiMoi.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\bauTroiMoi.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\music\\dung-lam-trai-tim-anh-dau.mp3",
+      "SourceId": "API_Stream",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\",
+      "BasePath": "_content/API_Stream",
+      "RelativePath": "music/dung-lam-trai-tim-anh-dau.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\music\\dung-lam-trai-tim-anh-dau.mp3"
+    }
+  ]
+}

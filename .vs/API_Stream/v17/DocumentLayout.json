@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\API_Stream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|c:\\users\\dell\\desktop\\api_stream\\api_stream\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|solutionrelative:api_stream\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|c:\\users\\dell\\desktop\\api_stream\\api_stream\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|solutionrelative:api_stream\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|c:\\users\\dell\\desktop\\api_stream\\api_stream\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|solutionrelative:api_stream\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|c:\\users\\dell\\desktop\\api_stream\\api_stream\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9388D9FE-EB35-46B4-BE38-3AA422468D28}|API_Stream\\API_Stream.csproj|solutionrelative:api_stream\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\utils\\Utils.cs",
+              "RelativeDocumentMoniker": "API_Stream\\utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\utils\\Utils.cs",
+              "RelativeToolTip": "API_Stream\\utils\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:11:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "API_Stream\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Models\\Model.cs",
+              "RelativeToolTip": "API_Stream\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:10:30.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "API_Stream\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "API_Stream\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:57:30.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "API_Stream\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "API_Stream\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwGwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:42:39.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
