@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\API_Stream.csproj",
+      "projectUniqueName": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\API_Stream.csproj",
       "projectName": "API_Stream",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\API_Stream.csproj",
+      "projectPath": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\API_Stream.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\obj\\",
+      "outputPath": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

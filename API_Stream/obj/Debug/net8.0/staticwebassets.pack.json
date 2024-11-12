@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\movie\\bauTroiMoi.mp4",
+      "Id": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\wwwroot\\movie\\bauTroiMoi.mp4",
       "PackagePath": "staticwebassets\\movie\\bauTroiMoi.mp4"
     },
     {
-      "Id": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\music\\bauTroiMoi.mp3",
+      "Id": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\wwwroot\\music\\bauTroiMoi.mp3",
       "PackagePath": "staticwebassets\\music\\bauTroiMoi.mp3"
     },
     {
-      "Id": "C:\\Users\\DELL\\Desktop\\API_Stream\\API_Stream\\wwwroot\\music\\dung-lam-trai-tim-anh-dau.mp3",
+      "Id": "D:\\Code\\Csharp\\ASP_API\\API_Stream\\API_Stream\\wwwroot\\music\\dung-lam-trai-tim-anh-dau.mp3",
       "PackagePath": "staticwebassets\\music\\dung-lam-trai-tim-anh-dau.mp3"
     },
     {

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using API_Stream.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API_Stream.Controllers
 {
@@ -58,6 +59,59 @@ namespace API_Stream.Controllers
             return File(stream, contentType);
         }
 
+
+
+
+        // Mảng tạm thời lưu video trong bộ nhớ
+        private static List<Model> movieList = new List<Model>();
+        private static int currentId = 1;
+
+        [HttpGet("all")]
+        public IActionResult GetAllMovies()
+        {
+            return Ok(movieList);
+        }
+
+        [HttpPost("upload")]
+        public async Task<IActionResult> SaveMovieAsync(IFormFile movieFile)
+        {
+            if (movieFile == null || movieFile.Length == 0)
+            {
+                return BadRequest("No file uploaded.");
+            }
+
+            // Đọc dữ liệu video vào byte array
+            using (var memoryStream = new MemoryStream())
+            {
+                await movieFile.CopyToAsync(memoryStream);
+                var music = new Model
+                {
+                    Id = currentId++,
+                    FileName = movieFile.FileName,
+                    Data = memoryStream.ToArray()
+                };
+
+                // Lưu vào mảng videoList
+                movieList.Add(music);
+
+                return Ok(new { music.Id, music.FileName });
+            }
+        }
+
+
+        [HttpGet("streamInMem/{id}")]
+        public IActionResult GetMovie(int id)
+        {
+            var movie = movieList.Find(v => v.Id == id);
+
+            if (movie == null)
+            {
+                return NotFound("Music not found.");
+            }
+
+            // Trả video dưới dạng stream
+            return File(movie.Data, "video/mp4");
+        }
 
     }
 }
